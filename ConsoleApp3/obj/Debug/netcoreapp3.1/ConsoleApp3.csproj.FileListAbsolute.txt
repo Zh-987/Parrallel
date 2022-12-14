@@ -4,7 +4,6 @@ C:\Users\assai\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\Cons
 C:\Users\assai\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.dev.json
 C:\Users\assai\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.dll
 C:\Users\assai\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.pdb
-C:\Users\assai\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.AssemblyReference.cache
 C:\Users\assai\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\assai\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
 C:\Users\assai\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
@@ -12,3 +11,4 @@ C:\Users\assai\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\Cons
 C:\Users\assai\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.dll
 C:\Users\assai\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.pdb
 C:\Users\assai\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.genruntimeconfig.cache
+C:\Users\assai\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.AssemblyReference.cache
